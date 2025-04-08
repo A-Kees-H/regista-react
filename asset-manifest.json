@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/regista-react/static/css/main.9f4bcbe4.css",
-    "main.js": "/regista-react/static/js/main.3778be2d.js",
-    "static/js/453.a9dc53f2.chunk.js": "/regista-react/static/js/453.a9dc53f2.chunk.js",
-    "index.html": "/regista-react/index.html",
-    "static/media/ballon_d'or_winners_since_2010.csv": "/regista-react/static/media/ballon_d'or_winners_since_2010.df9713183f10a9f049a8.csv",
-    "main.9f4bcbe4.css.map": "/regista-react/static/css/main.9f4bcbe4.css.map",
-    "main.3778be2d.js.map": "/regista-react/static/js/main.3778be2d.js.map",
-    "453.a9dc53f2.chunk.js.map": "/regista-react/static/js/453.a9dc53f2.chunk.js.map"
+    "main.css": "/static/css/main.9f4bcbe4.css",
+    "main.js": "/static/js/main.2b018a71.js",
+    "static/js/453.a9dc53f2.chunk.js": "/static/js/453.a9dc53f2.chunk.js",
+    "index.html": "/index.html",
+    "static/media/ballon_d'or_winners_since_2010.csv": "/static/media/ballon_d'or_winners_since_2010.df9713183f10a9f049a8.csv",
+    "main.9f4bcbe4.css.map": "/static/css/main.9f4bcbe4.css.map",
+    "main.2b018a71.js.map": "/static/js/main.2b018a71.js.map",
+    "453.a9dc53f2.chunk.js.map": "/static/js/453.a9dc53f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9f4bcbe4.css",
-    "static/js/main.3778be2d.js"
+    "static/js/main.2b018a71.js"
   ]
 }
